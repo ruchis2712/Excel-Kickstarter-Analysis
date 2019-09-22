@@ -1,5 +1,8 @@
 # Excel-Kickstarter-Analysis
-First Excel Project
+
+## First Excel Project
+
+### Challenge 1
 
 This repository consists of an analysis of various fundraising kickstarter camaigns and their performance against their goals. The analysis is performed to evaluate the impact of the size of Goals and also the impact of the Launch date on the success rate of meeting the Goal
 
